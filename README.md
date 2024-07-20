@@ -3,8 +3,8 @@
 # Example DataFrame Structure
 Assume our DataFrame contains the following columns:
 
-# transaction_id:  3Unique identifier for each transaction. 
-# user_id: Unique identifier for each user.
+transaction_id:  3Unique identifier for each transaction. 
+ user_id: Unique identifier for each user.
 timestamp: Date and time of the transaction.
 transaction_amount: The amount of the transaction.
 payment_method: The method used for payment (e.g., credit card, PayPal, etc.).
